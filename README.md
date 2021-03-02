@@ -1,9 +1,6 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrorambo/)](https://www.linkedin.com/in/pedrorambo/)
+[![Protonmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:prambo@pm.me)[![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrorambo/)
 
-👋Olá , sou desenvolvedor web full-stack com experiência nas linguagens PHP e JavaScript. Formado Técnico em Informática, com ensino superior em andamento em Ciência da Computação, na UFRGS.
-
-- 💻 Atualmente sou desenvolvedor web como colaborador de projeto no CTISM - UFSM.
-- 📚 Estudando React ...
-
-![](https://github-readme-stats.vercel.app/api?username=pedrorambo&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorambo&layout=compact)
+- 🎓 Cursando Ciência da Computação na UFRGS (1° semestre)
+- 💻 Desenvolvendo PHP e JS para o CTISM-UFSM desde 2019
+- 🎓 Formado em Técnico em Informática no CTISM-UFSM
+- 📫 prambo@pm.me
