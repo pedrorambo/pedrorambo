@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrorambo/)
 
-- 🪪 Full Stack Developer at [Forte Security](https://fortesecurity.com.br) and [Privacy21](https://privacy21.com)
-- 💼 Experience with NodeJS, React and Cloud Computing
-- ☁️ [AWS Certified Cloud Practitioner](https://www.credly.com/badges/119f031c-ad0d-447c-8b61-6519075dee94?source=linked_in_profile)
+- 📈 Co-Founder of [Privacy21](https://privacy21.com)
+- 👨‍💻 Developer at [Forte Security](https://fortesecurity.com.br)
+- ☁️ [AWS Certified Solutions Architect Associate](https://www.credly.com/badges/b75d6f76-bb3f-4ab6-85df-3fa955a0f765)
 - 📫 phhrambo@gmail.com
